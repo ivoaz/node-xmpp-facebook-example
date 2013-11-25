@@ -1,0 +1,9 @@
+{
+  "name": "node-facebook-chat-example",
+  "author": "Ivo Azirjans <ivo.azirjans@gmail.com>",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "node-xmpp": "latest"
+  }
+}

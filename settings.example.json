@@ -1,0 +1,5 @@
+{
+  "app_id": "Facebook app id",
+  "user_id": "Facebook user id",
+  "access_token": "Get access token from here (make sure you select your app and check extended xmpp_login permission): https://developers.facebook.com/tools/explorer"
+}
